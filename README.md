@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello World! 👋
 
+For a better human.
+
+💬 Quote of the day:
+
+"The risk I took was calculated, but man... am I bad at math."
 <!--
 **crispy-tk/crispy-tk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
