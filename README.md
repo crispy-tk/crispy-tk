@@ -5,8 +5,8 @@
 I'm an avid knowledge collector and a perpetual student of life. 
 Here, you'll find my digital collection of studies, notes, and projects that reflect my insatiable thirst for learning.
 
-💬 Quote of the day: "The risk I took was calculated, but man... am I bad at math."
-🫥 - Anonymicity is life
+- 💬 Quote of the day: "The risk I took was calculated, but man... am I bad at math."
+- 🫥 Anonymicity is life
 
 🌟📖 #CodeScholar #KnowledgeCollector
 <!--
