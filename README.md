@@ -1,10 +1,14 @@
 ### Hello World! 👋
 
-For a better human.
+📚 Welcome to my GitHub library of curiosity!
 
-💬 Quote of the day:
+I'm an avid knowledge collector and a perpetual student of life. 
+Here, you'll find my digital collection of studies, notes, and projects that reflect my insatiable thirst for learning.
 
-"The risk I took was calculated, but man... am I bad at math."
+💬 Quote of the day: "The risk I took was calculated, but man... am I bad at math."
+🫥 - Anonymicity is life
+
+🌟📖 #CodeScholar #KnowledgeCollector
 <!--
 **crispy-tk/crispy-tk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
